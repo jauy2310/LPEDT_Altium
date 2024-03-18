@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=+1V8 Pin=L6-1
+Removed Pin From Net: NetName=NetC25_1 Pin=L6-2
+Removed Pin From Net: NetName=+1V8 Pin=L7-1
+Removed Pin From Net: NetName=NetC27_1 Pin=L7-2
+Removed Pin From Net: NetName=+3V3 Pin=L8-1
+Removed Pin From Net: NetName=NetC5_1 Pin=L8-2
+Removed Member From Class: ClassName=EFR32BG24_PartA Member=L6
+Removed Member From Class: ClassName=EFR32BG24_PartA Member=L7
+Removed Member From Class: ClassName=AS7331 Member=L8
+Add Component: Footprint Not Found FB_0603
+Add Component: Footprint Not Found FB_0603
+Add Component: Footprint Not Found FB_0603
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin FB1-2
+Add Pin To Net: Unknown Pin: Pin FB2-1
+Add Pin To Net: Unknown Pin: Pin FB2-2
+Add Pin To Net: Unknown Pin: Pin FB3-1
+Add Pin To Net: Unknown Pin: Pin FB3-2
+Add Class Member: Failed to add class member : Component FB1 70 Ohms @ 100 MHz
+Add Class Member: Failed to add class member : Component FB2 70 Ohms @ 100 MHz
+Add Class Member: Failed to add class member : Component FB3 70 Ohms @ 100 MHz

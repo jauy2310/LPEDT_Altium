@@ -11,13 +11,16 @@
   <CXNetClasses />
   <ConstraintClearancesMatrix>
     <CCMFromScopes>
-      <CCMFromScope Id="af665192-7432-4318-8deb-fe41e05e7802">
+      <CCMFromScope Id="0d4053fa-fb7c-4589-856e-e0fc49348517">
         <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
         <CCMToScopes>
-          <CCMToScope Id="90ded312-dd3a-4488-b991-4f607ceede5b" SetId="00000000-0000-0000-0000-000000000000">
+          <CCMToScope Id="7399ab8c-6130-4d42-a53b-e2d2be0a6fbc" SetId="00000000-0000-0000-0000-000000000000">
             <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
             <DefaultConstraintClearancesMatrixConstraint Id="00000000-0000-0000-0000-000000000000" Kind="0" Name="" Description="" Scope1="" Scope2="" Attributes="" LayerType="0" LayerId="0" />
-            <CCMConstraints />
+            <CCMConstraints>
+              <CCMConstraint Id="cf864ebd-3159-4217-b769-abde45b8bf9b" Kind="0" Name="Clearance_1" Description="Clearance Constraint [Clearance = 10mil]" Scope1="OnMid" Scope2="OnMid" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=10mil|GENERICCLEARANCE=10mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= " LayerType="2" LayerId="0" />
+              <CCMConstraint Id="a3040c33-52b3-42f7-91e7-cc41e7463b30" Kind="0" Name="Clearance_2" Description="Clearance Constraint [Clearance = 10mil]" Scope1="(ExistsOnLayer('Top Layer') Or ExistsOnLayer('Bottom Layer'))" Scope2="(ExistsOnLayer('Top Layer') Or ExistsOnLayer('Bottom Layer'))" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=10mil|GENERICCLEARANCE=10mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= " LayerType="1" LayerId="0" />
+            </CCMConstraints>
           </CCMToScope>
         </CCMToScopes>
       </CCMFromScope>

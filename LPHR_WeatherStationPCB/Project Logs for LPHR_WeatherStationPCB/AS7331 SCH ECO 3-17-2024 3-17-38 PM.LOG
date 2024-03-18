@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=H2 NewDesignator=VDD_LOAD_SEL
+Change Component Designator: OldDesignator=TP1 NewDesignator=LOAD_CURR_SENSE
+Change Component Designator: OldDesignator=TP13 NewDesignator=INPUT_CURR_SENSE
