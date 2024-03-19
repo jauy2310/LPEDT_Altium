@@ -1,0 +1,12 @@
+Added Component: Designator=MH1(HOLE_#4)
+Added Component: Designator=MH2(HOLE_#4)
+Added Component: Designator=MH3(HOLE_#4)
+Added Component: Designator=MH4(HOLE_#4)
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
+Added Member To Class: ClassName=EFR32BG24_PartC Member=Component MH1 #4 Hole
+Added Member To Class: ClassName=EFR32BG24_PartC Member=Component MH2 #4 Hole
+Added Member To Class: ClassName=EFR32BG24_PartC Member=Component MH3 #4 Hole
+Added Member To Class: ClassName=EFR32BG24_PartC Member=Component MH4 #4 Hole

@@ -7,7 +7,7 @@ rmdir .\LPEDT_Parts\History\ /s /q
 
 :: prompt user for input
 :input_message
-set /p commit_message=Enter your commit message:
+set /p commit_message=Enter your commit message: 
 
 if "%commit_message%"=="" (
     echo Commit message cannot be empty. Please try again.
@@ -19,6 +19,7 @@ git add .
 git commit -m "%commit_message%"
 git push -u origin main
 
+:: confirm success
 echo.
 echo.
 echo Commit Successful!
