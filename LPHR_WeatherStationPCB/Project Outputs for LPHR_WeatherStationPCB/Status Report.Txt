@@ -1,14 +1,21 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [LPHR_WeatherStationPCB.PrjPcb]
-   Generated File[PCB_WeatherStation-RoundHoles.TXT]
-   Generated File[PCB_WeatherStation-SlotHoles.TXT]
-   Generated File[PCB_WeatherStation.DRL]
-   Generated File[PCB_WeatherStation.LDP]
-   Generated File[PCB_WeatherStation.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LPHR_WeatherStationPCB.PrjPcb]
+   Generated File[PCB_WeatherStation.GTO]
+   Generated File[PCB_WeatherStation.GTP]
+   Generated File[PCB_WeatherStation.GTS]
+   Generated File[PCB_WeatherStation.GTL]
+   Generated File[PCB_WeatherStation.GBL]
+   Generated File[PCB_WeatherStation.GBS]
+   Generated File[PCB_WeatherStation.GBP]
+   Generated File[PCB_WeatherStation.GBO]
+   Generated File[PCB_WeatherStation.GKO]
+   Generated File[PCB_WeatherStation.GM]
+   Generated File[PCB_WeatherStation.EXTREP]
+   Generated File[PCB_WeatherStation.REP]
 
 
-Files Generated   : 5
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 7:31:47 PM On 3/20/2024
+Finished Output Generation At 10:50:34 PM On 3/20/2024
