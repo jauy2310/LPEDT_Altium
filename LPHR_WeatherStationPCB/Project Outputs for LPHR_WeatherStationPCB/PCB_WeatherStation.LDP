@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\CUSP24\ECEN5833\_PCB_Designs\_Projects\WeatherStationProject\LPHR_WeatherStationPCB\PCB_WeatherStation.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_weatherstation-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_weatherstation-slotholes.txt|DrillLayers=gtl,gbl
