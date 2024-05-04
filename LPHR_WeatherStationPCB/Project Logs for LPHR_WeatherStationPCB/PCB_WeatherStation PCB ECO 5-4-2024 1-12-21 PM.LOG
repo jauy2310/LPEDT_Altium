@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3V3 Pin=VDD_LOAD_SEL-1
+Removed Pin From Net: NetName=BQ_VOUT Pin=VDD_LOAD_SEL-3
+Removed Member From Class: ClassName=BQ25570 Member=VDD_LOAD_SEL
+Added Pin To Net: NetName=BQ_VOUT Pin=LOAD_CURR_SENSE-1
+Added Pin To Net: NetName=+3V3 Pin=LOAD_CURR_SENSE-2
+Added Pin To Net: NetName=BQ_VOUT Pin=R26-1
+Added Pin To Net: NetName=+3V3 Pin=R26-2
